@@ -3,7 +3,7 @@ title: "/// <reference ...>を用いてSincoを使ったE2E試験での型エラ
 emoji: "🦕"
 type: "tech"
 topics: [deno, Sinco]
-published: false
+published: true
 ---
 
 この記事は、Deno Advent Calendar 2021の21日目です。
