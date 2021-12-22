@@ -1,5 +1,5 @@
 ---
-title: "\/// <reference ...>を用いてSincoを使ったE2E試験での型エラーを解決する"
+title: "/// <reference ...>を用いてSincoを使ったE2E試験での型エラーを解決する"
 emoji: "🦕"
 type: "tech"
 topics: [deno, sinco]
