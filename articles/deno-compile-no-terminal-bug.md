@@ -5,7 +5,7 @@ type: "tech"
 topics: [deno]
 published: true
 ---
-この記事は、Deno Advent Calendar 2023の13日目です。
+この記事は、Deno Advent Calendar 2023の18日目です。
 https://qiita.com/advent-calendar/2023/deno
 
 ## `deno compile`とは
