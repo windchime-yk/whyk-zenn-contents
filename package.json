@@ -5,6 +5,10 @@
     "book": "zenn new:book",
     "preview": "zenn preview"
   },
+  "volta": {
+    "node": "20.10.0",
+    "pnpm": "8.12.1"
+  },
   "devDependencies": {
     "zenn-cli": "^0.1.100"
   }
