@@ -5,6 +5,8 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [deno, hono, webview, denokv]
 published: true
 ---
+この記事は、Deno Advent Calendar 2023の23日目です。
+https://qiita.com/advent-calendar/2023/deno
 
 ## 作り始めた動機
 私は記事を限定公開するときに環境変数に書いて、それが外部から入力されたときに通す形にしていました。  
